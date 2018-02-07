@@ -5,3 +5,4 @@ test/coverage.html
 test/coverage.txt
 bower_components/
 coverage.*
+package-lock.json
