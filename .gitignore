@@ -6,3 +6,4 @@ test/coverage.txt
 bower_components/
 coverage.*
 package-lock.json
+all.js
